@@ -72,7 +72,7 @@ Follow the established coding style and ensure your code passes all tests.
 ---
 
 For major feature additions, please open an issue first to discuss your idea.
-Support
+## Support
 
 For any questions or support, contact the development team via:
 pull requests or open an issue in the repository.
