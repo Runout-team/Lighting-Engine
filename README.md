@@ -1,7 +1,7 @@
 # Lighting Engine: Open-source for Everyone, for Everything.
 
 Lighting Engine is an open-source game engine designed to provide a robust and modern framework for game development.\
-Built with C++ at its core and support for C# scripting, this engine balances performance, flexibility, and ease of use.
+Built with C++ at its core and scripting, this engine balances performance, flexibility, and ease of use.
 
 ## Description
 
@@ -11,7 +11,7 @@ While the Lighting Engine retains many of the powerful features of its predecess
 ### Key features include:
 - Fast Performance: Optimized for speed with a lightweight codebase.
 - C++ Core: Full access to engine internals for experienced developers.
-- C# Scripting: Simplified game logic implementation for faster iteration.
+- 2D and 3D optimization, Same quality as Thunder Engine.
 - Modularity: Designed with extensibility and customizability in mind.
 
 Lighting Engine is developed with the philosophy of sharing tools to empower developers worldwide.
@@ -23,11 +23,10 @@ Development Goals
  Asset pipeline for efficient handling of textures, models, and animations.
 
 - Scripting:\
- Native C++ support for performance-critical tasks.
- C# scripting for game logic, offering faster iteration and ease of use.
+ Native C++ support for performance-critical tasks, scripting for game logic, offering faster iteration and ease of use.
 
 - Cross-Platform Support:\
- Windows, Linux, and potentially macOS.
+ Windows, Linux, macOS, Android, iOS and iPadOS in **One place**.
 
 - Open-Source Contributions:\
  Transparent development with community-driven enhancements.
@@ -39,8 +38,6 @@ Development Goals
 /docs: Documentation for engine usage and development.
 
 /examples: Sample projects demonstrating engine capabilities.
-
-/scripts: C# scripts for quick testing and examples.
 
 /tests: Unit tests to ensure engine stability.
 
